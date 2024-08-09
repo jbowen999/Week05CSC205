@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Week05CSC205
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
